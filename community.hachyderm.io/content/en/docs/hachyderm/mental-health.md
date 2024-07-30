@@ -342,7 +342,7 @@ If you have asked someone to stop engaging with you and/or your thread, the main
 your disposal are:
 
 * Mute the user<br />
-  They will still be able to follow you and see your posts. They will not be notified they are muted.
+  They will still be able to follow you and see your posts. They will not be notified that they are muted.
 * Block the user<br />
   They will not be able to follow you, see your posts, etc. They will not be notified that they are
   blocked, but they will be able to tell that they are blocked.
